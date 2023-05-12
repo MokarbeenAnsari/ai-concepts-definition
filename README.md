@@ -1,2 +1,6 @@
-# ai-concepts-definition
-AI concepts definition in short format.
+# AI Concepts Definition
+| S.No | Topic                                           | Definition                                                                                       |
+|------|-------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 1    | **Artificial Intelligence**                     |Artificial Intelligence (AI) is a field of computer science focused on creating systems capable of performing tasks that normally require human intelligence, such as understanding natural language, recognizing patterns, solving problems, and making decisions.<br/>It encompasses techniques like machine learning and deep learning, enabling computers to learn from data and improve over time.|
+|2     | **Machine Learning**                            |Machine learning is a subset of artificial intelligence that enables computer systems to learn and improve from experience, using algorithms to analyze data, identify patterns, and make predictions without explicit programming.<br />It automates the process of learning from data to make better decisions or perform specific tasks more efficiently. |
+
